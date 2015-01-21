@@ -18,8 +18,8 @@
 * и т.д.
 
 **Примеры названий для файлов:**
-* Обработка данных.md
-* Создание основных таблиц.sql
+* getRequestedInfo.md
+* CreatingDataTypes.sql
 
 
 
