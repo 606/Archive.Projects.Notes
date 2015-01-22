@@ -104,8 +104,8 @@
 
 Пример:
 
-**PK_colID
-PK_coName**
+    PK_colID
+    PK_coName
 
 
 **10. Внешние ключи.**  
